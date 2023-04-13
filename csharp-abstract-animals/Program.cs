@@ -19,6 +19,8 @@
             Passerotto passerotto = new Passerotto();
             passerotto.Mangia();
             passerotto.Verso();
+            delfino.FaiNuotare(delfino);
+        
         }
     }
 }
