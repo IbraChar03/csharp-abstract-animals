@@ -14,7 +14,7 @@ namespace csharp_abstract_animals
         }
         public override void Mangia()
         {
-            Console.WriteLine("Il cane si nutre di carne");
+            Console.WriteLine("carne");
         }
     }
 }

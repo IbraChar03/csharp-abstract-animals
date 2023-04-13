@@ -14,7 +14,7 @@ namespace csharp_abstract_animals
         }
         public override void Mangia()
         {
-            Console.WriteLine("IL passerotto si nutre di semi");
+            Console.WriteLine("semi");
         }
     }
 }

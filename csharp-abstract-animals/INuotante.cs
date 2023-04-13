@@ -6,7 +6,8 @@ using System.Threading.Tasks;
 
 namespace csharp_abstract_animals
 {
-    internal interface INuotano
+    internal interface INuotante
     {
+        public void Nuota();
     }
 }
